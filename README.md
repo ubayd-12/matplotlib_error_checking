@@ -25,7 +25,7 @@ This program reads simulation data from text files and visualizes the total ener
 
 The expected format for the data files is:
 
-``
+`LengthError: [value], TotalEnergy: [value]`
 
 ## Dependencies
 
